@@ -1,0 +1,16 @@
+https://dl.google.com/android/repository/usb_driver_r12-windows.zip
+https://dl.google.com/android/repository/platform-tools_r30.0.0-windows.zip
+https://dl.google.com/dl/android/aosp/walleye-ota-qq2a.200405.005-9731590a.zip
+
+
+按住电源按钮并按调高音量recovery
+按住电源按钮+调高音量按钮Apply update from ADB
+adb devices
+adb reboot recovery
+adb sideload ota_file.zip
+
+
+adb shell settings list global
+adb shell settings put global captive_portal_https_url https://www.google.cn/generate_204
+or
+adb shell settings put global captive_portal_mode 0
