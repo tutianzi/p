@@ -1,0 +1,3 @@
+adb reboot bootloader
+fastboot flashall -w
+https://dl.google.com/dl/android/aosp/walleye-qq3a.200605.002.a1-factory-4db50162.zip
