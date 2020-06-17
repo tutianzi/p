@@ -1,0 +1,2 @@
+netsh wlan set hostednetwork mode=allow ssid=myssid key=5202020
+netsh wlan start hostednetwork
