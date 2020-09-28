@@ -1,2 +1,0 @@
-https://dl.google.com/android/repository/platform-tools_r30.0.2-windows.zip
-https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200605.002.a1-b8ec20a1.zip
