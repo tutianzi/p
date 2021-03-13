@@ -1,0 +1,14 @@
+http://dl.google.com/pinyin/v1/GooglePinyinInstaller.exe
+http://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe
+http://dl.google.com/pinyin/v2/GooglePinyinInstaller_x64.exe
+http://dl.google.com/pinyin/v3/GooglePinyinInstaller.exe
+http://dl.google.com/pinyin/v3/GooglePinyinInstaller_x64.exe
+
+
+
+Sha1£º
+fffd9e49421babad33dd1f2ac35b323ef3dd2a12 *pinyin\v1\GooglePinyinInstaller.exe
+6447a9277445befde4e70217b830285194883f67 *pinyin\v2\GooglePinyinInstaller.exe
+dd3a25e11d36bdc7f376574e6520fa24a6a4ab58 *pinyin\v3\GooglePinyinInstaller.exe
+6447a9277445befde4e70217b830285194883f67 *pinyin\v2\GooglePinyinInstaller_x64.exe
+613f5f7a77e992c258c380ecb0aed5462e4eb6e4 *pinyin\v3\GooglePinyinInstaller_x64.exe
